@@ -1,2 +1,3 @@
-# Python-Curso-em-Video 2
+Exercícios do Curso em Vídeo - do 01 ao 115.
+
  
